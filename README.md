@@ -64,7 +64,9 @@ This dashboard helps organizations:
 * Identify underperforming segments for targeted action
 * Diversify revenue streams to mitigate supplier risks
 
-  ![image](https://github.com/user-attachments/assets/6a0dbf9b-2334-4ebf-8b8d-b1b1df9e83a7)
+# 🗃️ File Structure
+
+![image](https://github.com/user-attachments/assets/6a0dbf9b-2334-4ebf-8b8d-b1b1df9e83a7)
 
 # 🚀 Getting Started
 * Download and open the .pbix file using Power BI Desktop.
